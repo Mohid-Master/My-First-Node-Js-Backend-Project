@@ -1,0 +1,13 @@
+{
+  "name": "my-first-node-js-backend-project",
+  "version": "1.0.0",
+  "description": "My first beginner friendly experience of backend node js app using github and Chromebook",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Mohid",
+  "license": "ISC"
+}
